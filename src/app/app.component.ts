@@ -19,6 +19,6 @@ export class AppComponent {
     alert("hi "+uname);
     }
     else
-    alert("Fuck you");
+    alert("Fuck you !");
   }
 }
