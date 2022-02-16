@@ -3,7 +3,16 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  firesbase:{
+    apiKey: "AIzaSyDk2Y_FiQAoWMN0Uvgf-tdn_fK3s4IpeRU",
+    authDomain: "walktrack-dd1e7.firebaseapp.com",
+    databaseURL: "https://walktrack-dd1e7.firebaseio.com",
+    projectId: "walktrack-dd1e7",
+    storageBucket: "walktrack-dd1e7.appspot.com",
+    messagingSenderId: "845197921644",
+    appId: "1:845197921644:web:4b72519c45198dfc727749"
+  }
 };
 
 /*
